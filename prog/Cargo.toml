@@ -1,0 +1,9 @@
+[package]
+name = "prog"
+version = "0.1.0"
+edition = "2021"
+description = "Any command's progress as a floating card on the desktop"
+
+[dependencies]
+libc = "0.2"
+serde_json = "1"
